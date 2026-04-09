@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- █████╗ ██╗     ██████╗ ██╗  ██╗██████╗  ██████╗ ███╗   ██╗
-██╔══██╗██║     ██╔══██╗██║  ██║██╔══██╗██╔═══██╗████╗  ██║
-███████║██║     ██████╔╝███████║██║  ██║██║   ██║██╔██╗ ██║
-██╔══██║██║     ██╔══██╗╚════██║██║  ██║██║   ██║██║╚██╗██║
-██║  ██║███████╗██████╔╝     ██║██████╔╝╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚═════╝      ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
-```
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=620&lines=researcher%40underground%3A%7E%24+whoami;Security+Enthusiast+%7C+CS+%7C+Mathematics;Pentesting+%7C+Research+%7C+Development;%5B%2A%5D+Knowledge+is+the+most+dangerous+weapon.)](https://github.com/Alb4don)
 
@@ -20,8 +13,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [*] SYSTEM   : researcher@underground                           ║
-║  [*] LOCATION : Brasil [BR] :: -23.5505° S, -46.6333° W          ║
-║  [*] STATUS   : ACTIVE — working from the underground            ║
+║  [*] LOCATION : Brasil [BR]                                      ║
+║  [*] STATUS   : ACTIVE working from the underground              ║
 ║  [*] MISSION  : Research · Infiltrate · Understand · Build       ║
 ║  [!] WARNING  : Authorized personnel only beyond this point.     ║
 ╚══════════════════════════════════════════════════════════════════╝
