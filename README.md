@@ -9,7 +9,7 @@ Hello. I'm just a curious person taking things apart and inventing other things.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=780&lines=Machines+don%27t+rebel%3B+they+file+paperwork+%E2%80%94;and+somewhere+between+the+algorithm+and+the+ancien+r%C3%A9gime%2C;we+became+tenants+of+our+own+obedience." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=780&lines=Machines+do+not+rebel%3B+they+process+paperwork%2C;and+somewhere+between+the+algorithm+and+the+ancien+r%C3%A9gime%2C;we+become+tenants+of+our+own+obedience." alt="typing-svg" />
 
 <br/><br/>
 
