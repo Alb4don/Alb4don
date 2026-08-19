@@ -1,61 +1,18 @@
-```
-$ whoami
-alb4don
-$ uname -a
-Independent Researcher  | Security enthusiast • Mathematics • Computer Science
-Brazil
-```
+<div align="center">
 
-## status
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:000000&height=180&section=header" width="100%"/>
 
-```
-$ ./profile --info
-focus             Post-quantum cryptography, Differential geometry, Graph theory
-```
+<br/>
 
-## expertise
+Hello. I'm just a curious person taking things apart and inventing other things.
 
-```
-$ ls -la /expertise/
-cryptography/           Key encapsulation mechanisms, elliptic curves
-mathematics/            Differential geometry, topological data analysis  
-network-security/       Penetration testing, OSINT, reconnaissance
-malware-analysis/       Control flow graphs, spectral methods
-programming/            Python, JavaScript, R, Bash, C, C++, ADA
-```
 
-## current work
+<br/>
 
-```
-$ cat /current/projects.txt
-GitSec          Encrypting sensitive files using OpenPGP.
-PhantomTrack    OSINT Intelligence Framework
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=780&lines=Machines+don%27t+rebel%3B+they+file+paperwork+%E2%80%94;and+somewhere+between+the+algorithm+and+the+ancien+r%C3%A9gime%2C;we+became+tenants+of+our+own+obedience." alt="typing-svg" />
 
-## notable tools
+<br/><br/>
 
-```
-$ find . -type f -name "*.py" | head -5
-./JSnninja            JavaScript reconnaissance automation
-./GitSec              OpenPGP secret management for git
-./PhantomTrack        OSINT with heuristic false-positive reduction
-./DNScout             DNS benchmarking & anomaly detection
-./M474                Network privacy (MAC randomization, IP mgmt)
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:000000&height=120&section=footer" width="100%"/>
 
-## research & writing
-
-```
-$ grep -r "published" ~/research/
-Spectral graph geometry + malware analysis
-Neural Network + Assited Integer Factorization
-```
-
-[ORCID](https://orcid.org/0009-0002-5683-1164) 
-
----
-
-```
-$ echo "Let's build secure systems"
-Let's build secure systems
-```
+</div>
